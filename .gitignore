@@ -1,0 +1,5 @@
+accounts.db
+data.json
+user_data/
+__pycache__/
+*.tmp
